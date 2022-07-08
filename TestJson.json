@@ -1,0 +1,8 @@
+{
+  "name": "Gnoying Collection",
+  "description": "Gnoying support CyberMedia collections.",
+  "image": "external-link-url/image.png",
+  "external_link": "external-link-url",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x6C3d1Ca92FC2692004adB3D14a521BfD913F37B9"
+}
